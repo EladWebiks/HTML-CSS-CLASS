@@ -1,0 +1,7 @@
+div:hover {
+    color: red;
+}
+input[type="text"] {
+    background-color: green;
+}
+
